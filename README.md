@@ -14,7 +14,7 @@ This Python project calculates and visually represents the reflection of an arbi
     * A dashed line connecting $P$ to $P'$.
 
 ## 🛠️ Technologies/Tools Used
-*]**Language:** Python 3.x 
+***Language:** Python 3.x 
 * **Libraries:**
     * `numpy`: Used for efficient numerical operations and creating the mesh grid for the plane plot.
     * `matplotlib`: Specifically `mpl_toolkits.mplot3d` for rendering the geometric visualization.
